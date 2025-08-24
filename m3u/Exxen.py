@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 
 # --- TEMEL AYARLAR ---
 # BASE_URL artık ana siteyi işaret ediyor, kategori seçimi kullanıcıya bırakıldı.
-BASE_URL = "https://dizifun5.com"
+BASE_URL = "https://dizifun5.com/exxen"
 # Proxy'ye şimdilik gerek yok, direkt linkler çalışıyor. Gerekirse aktif edilebilir.
 # PROXY_BASE_URL = "https://3.nejyoner19.workers.dev/" 
 HEADERS = {
