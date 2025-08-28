@@ -1,4 +1,4 @@
-name: Run M3U Python Scripts (TRT 00:00)
+name: dizifun Scripts (TRT 00:00)
 
 on:
   schedule:
